@@ -10,4 +10,5 @@ public class Tipo03 extends Empregado{
   	   this.setBonus(500+gerador.nextDouble()*500);
   	   return this.getSalario()+this.getSalario()*this.getPercentualComissao()+this.getBonus();
      }
+     //tipo03
 }

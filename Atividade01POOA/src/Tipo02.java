@@ -9,4 +9,6 @@ public class Tipo02 extends Empregado {
   	   this.setPercentualComissao(gerador.nextDouble());
   	   return this.getSalario()+this.getSalario()*this.getPercentualComissao();
      }
+     //tipo02
 }
+ 
